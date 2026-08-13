@@ -3,6 +3,5 @@ dist/
 build/
 .DS_Store
 Thumbs.db
-.env
-.env.*
 .vercel/
+config.bat
